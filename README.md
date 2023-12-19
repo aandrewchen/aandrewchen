@@ -2,6 +2,6 @@
 - 📚 I am currently a 2nd year undergraduate at UC Davis studying Computer Science!
 - 💻 I am a full stack software developer exploring the realms of Machine Learning and AI!
 - 💞️ My favorite languages are Python, JavaScript, and Go!
-- 📫 You can reach out to me on:
+- 📫 Feel free to reach out to me on:
    - LinkedIn: https://www.linkedin.com/in/awcn
    - E-mail: andche@ucdavis.edu
