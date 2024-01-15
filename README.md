@@ -5,4 +5,4 @@
 - 💞️ My favorite languages are Python, JavaScript/TypeScript, and Go!
 - 📫 Feel free to reach out to me on:
    - LinkedIn: https://www.linkedin.com/in/awcn
-   - E-mail: andche@ucdavis.edu
+   - E-mail: andche [at] ucdavis [dot] edu
