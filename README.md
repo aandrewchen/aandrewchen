@@ -2,7 +2,7 @@
 
 - 📚 I am currently a rising 3rd year undergraduate at UC Davis studying Computer Science!
      - I use C, C++, and RISC-V & x86 Assembly in my classes!
-     - 🧑‍💻 Right now, I am learning Haskell!
+     - 🧑‍💻 Right now, I am learning Haskell & Prolog!
 
 - 💻 I am a full stack software developer exploring the realms of Machine Learning, AI, and Computer Vision!
 
