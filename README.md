@@ -1,10 +1,11 @@
 <h2>👋 Hello! I’m Andrew Chen!</h2>
 
-- 📚 I am currently a rising 3rd year undergraduate at UC Davis studying Computer Science!
+- 📚 I am a 3rd year undergraduate at UC Davis studying Computer Science!
      - I use C, C++, and RISC-V & x86 Assembly in my classes!
-     - 🧑‍💻 Right now, I am learning Haskell, Prolog, & Erlang!
 
-- 💻 I am a full stack software developer exploring the realms of Machine Learning, AI, and Computer Vision!
+- 🧑‍💻 Currently, I am a:
+     - ☕ Software Development Engineer @ Roastpic
+     - 💻 Backend Software Engineer @ UC Davis IET
 
 - 💞️ My favorite languages are Python, TypeScript, and Golang!
 
