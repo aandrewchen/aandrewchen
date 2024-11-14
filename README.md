@@ -4,8 +4,8 @@
      - I use C, C++, and RISC-V & x86 Assembly in my classes!
 
 - 🧑‍💻 Currently, I am a:
-     - ☕ Software Development Engineer @ Roastpic
-     - 💻 Backend Software Engineer @ UC Davis IET
+     - ☕ Software Development Engineer Intern @ Roastpic
+     - 💻 Backend Software Engineer Intern @ UC Davis IET
 
 - 💞️ My favorite languages are Python, TypeScript, and Golang!
 
