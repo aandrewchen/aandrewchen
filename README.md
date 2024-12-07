@@ -2,6 +2,7 @@
 
 - 📚 I am a 3rd year undergraduate at UC Davis studying Computer Science!
      - I use C, C++, and RISC-V & x86 Assembly in my classes!
+     - 🔎 Currently diving deep into the world of AI, ML, and CV!
 
 - 🧑‍💻 Currently, I am a:
      - ☕ Software Development Engineer Intern @ Roastpic
