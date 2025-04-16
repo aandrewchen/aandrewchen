@@ -5,10 +5,14 @@
      - 🔎 Currently diving deep into the world of AI, ML, and CV!
 
 - 🧑‍💻 Currently, I am a:
-     - ☕ Software Development Engineer Intern @ Roastpic
      - 💻 Backend Software Engineer Intern @ UC Davis IET
+     - 💡 Director of Engineering @ AggieWorks
 
-- 💞️ My favorite languages are Python, TypeScript, and Golang!
+- 💞️ My favorite:
+     - Languages:
+          - TypeScript, Golang, and Python!
+     - Frameworks/Libraries:
+          - Svelte, Next.js, Hono, Drizzle, and Gin!
 
 - 📫 Feel free to reach out to me on:
    - LinkedIn: https://www.linkedin.com/in/aandrewchen
